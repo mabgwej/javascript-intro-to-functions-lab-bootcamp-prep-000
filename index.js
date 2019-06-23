@@ -6,5 +6,6 @@ function whisper(string) {
 }
 
  function sayHiToGrandma(string) {
-  console.log(lowercase.toLowerCase() ===lowercase )
+  (lowercase.toLowerCase() ===lowercase)
+  return string()
 }
